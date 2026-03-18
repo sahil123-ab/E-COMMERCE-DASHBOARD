@@ -37,7 +37,7 @@ It helps analyze sales performance, profit trends, customer behavior, and produc
 
 🔹 Screenshots
 
-(Add your dashboard image here)
+
 
 ---
 
